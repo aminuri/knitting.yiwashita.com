@@ -1,0 +1,13 @@
+
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.yiwashita.knitting",
+      "sha256_cert_fingerprints": [
+        "99:87:82:8F:93:C1:D7:BD:0E:C2:16:AF:07:7A:76:E3:61:20:93:B4:1B:F0:A7:12:18:46:2A:D2:62:BF:F8:43"
+      ]
+    }
+  }
+]

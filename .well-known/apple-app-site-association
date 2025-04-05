@@ -1,0 +1,27 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "R3SP44446X.com.yiwashita.knitting"
+        ],
+        "components": [
+          {
+            "/": "/",
+            "comment": "Matches any URL whose path starts with /."
+          },
+          {
+            "/": "/*",
+            "comment": "Matches any URL whose path starts with /."
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "R3SP44446X.com.yiwashita.knitting"
+    ]
+  }
+}
